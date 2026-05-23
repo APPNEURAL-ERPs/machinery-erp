@@ -1,3 +1,3 @@
-# Intellistra-Machinery
+# machinery-erp
 
 Machinery ERP — powered by APPNEURAL
